@@ -11,4 +11,9 @@ System.out.println("aeroplane");
 		// TODO Auto-generated method stub
 System.out.println("Helicopter");
 	}
+	
+	public void jet() {
+		// TODO Auto-generated method stub
+System.out.println("jet");
+	}
 }
