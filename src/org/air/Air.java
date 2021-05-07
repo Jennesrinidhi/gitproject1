@@ -11,4 +11,10 @@ System.out.println("aeroplane");
 		// TODO Auto-generated method stub
 System.out.println("Helicopter");
 	}
+	
+public void airspace() {
+System.out.println("airspace");
+
+
+	}
 }
