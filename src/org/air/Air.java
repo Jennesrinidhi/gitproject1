@@ -12,9 +12,15 @@ System.out.println("aeroplane");
 System.out.println("Helicopter");
 	}
 	
+	public void jet() {
+		// TODO Auto-generated method stub
+System.out.println("jet");
+	}
+	
+
 public void airspace() {
 System.out.println("airspace");
 
+}
 
-	}
 }
